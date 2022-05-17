@@ -2,8 +2,8 @@ Write a script, using $RANDOM, to write the following output both to a file and 
 variable. The following numbers are only to show the format; your script should
 produce different numbers:
 
-1988.2365\n
-13798.14178\n
+1988.2365<br/>
+13798.14178<br/>
 10081.134\n
 3816.15098\n
 
